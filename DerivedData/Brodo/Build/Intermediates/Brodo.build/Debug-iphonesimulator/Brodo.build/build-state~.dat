@@ -1,0 +1,360 @@
+TBrodo
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.pch Brodo/Brodo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.o /Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.o /Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.o /Users/russfellman/Development/iOS/Brodo/Brodo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo normal i386
+cGenerateDSYMFile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo
+cCompileStoryboard /Users/russfellman/Development/iOS/Brodo/Brodo/Base.lproj/Main.storyboard
+cCopyStringsFile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/en.lproj/InfoPlist.strings Brodo/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app /Users/russfellman/Development/iOS/Brodo/Brodo/Images.xcassets
+cProcessInfoPlistFile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Info.plist /Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Info.plist
+cTouch /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000524065A400000000000003B5
+t1379952036
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000524065AB000000000000019E
+t1379952043
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000524065AD0000000000445830
+t1379952045
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000524065AF000000000088B570
+t1379952047
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000524065B40000000001DB1C90
+t1379952052
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000524065DD0000000000000AC9
+t1379952093
+s2761
+
+N/Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m
+c0000000052542C8200000000000007C5
+t1381248130
+s1989
+
+N/Users/russfellman/Development/iOS/Brodo/Brodo/Base.lproj/Main.storyboard
+c0000000052542C820000000000000630
+t1381248130
+s1584
+
+N/Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Info.plist
+c0000000052542C8200000000000004C9
+t1381248130
+s1225
+
+N/Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Prefix.pch
+c0000000052542C820000000000000154
+t1381248130
+s340
+
+N/Users/russfellman/Development/iOS/Brodo/Brodo/Images.xcassets
+c0000000052542C820000000000000088
+t1381248130
+s136
+
+N/Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m
+c0000000052542E7F0000000000000534
+t1381248639
+s1332
+
+N/Users/russfellman/Development/iOS/Brodo/Brodo/en.lproj/InfoPlist.strings
+c0000000052542C82000000000000002D
+t1381248130
+s45
+
+N/Users/russfellman/Development/iOS/Brodo/Brodo/main.m
+c0000000052542C820000000000000147
+t1381248130
+s327
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.o
+t1381248648
+s65228
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/Brodo.LinkFileList
+c0000000052542E8600000000000001D9
+t1381248646
+s473
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.o
+t1381248648
+s63024
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.o
+t1381248648
+s3652
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/assetcatalog_dependencies.txt
+t1381248651
+s426
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/assetcatalog_generated_info.plist
+t1381248651
+s525
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.pch
+t1381248648
+s108108
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app
+t1381248651
+s306
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM
+t2
+s0
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Base.lproj/Main.storyboardc
+t1381248651
+s170
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo
+t1381248649
+s27448
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Info.plist
+t1381248651
+s1007
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/PkgInfo
+t1381248651
+s8
+
+N/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/en.lproj/InfoPlist.strings
+t1381248649
+s42
+
+CBuild AST from /Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m
+r0
+
+CBuild AST from /Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m
+r0
+
+CBuild AST from /Users/russfellman/Development/iOS/Brodo/Brodo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbb7c97066604b841^4417a0066604b841^---0#1#1#--18"Check dependencies36"F51E6DD9-3BE6-43AA-B066-A8C479C12F56-
+
+CCompileAssetCatalog /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app /Users/russfellman/Development/iOS/Brodo/Brodo/Images.xcassets
+s402941449.794276
+e402941451.706144
+r1
+xCompileAssetCatalog
+x/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app
+x/Users/russfellman/Development/iOS/Brodo/Brodo/Images.xcassets
+o2013-10-08 12:10:51.035 IBCocoaTouchImageCatalogTool[8172:303] CFPreferences: user home directory at file:///Users/russfellman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/LaunchImage-700-568h@2x.png
+o/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Assets.car
+o/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CompileAssetCatalog DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app Brodo/Images.xcassets106"CompileAssetCatalog DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app Brodo/Images.xcassets8b70cb096604b841^61c6b40b6604b841^-683"2013-10-08 12:10:51.035 IBCocoaTouchImageCatalogTool[8172:303] CFPreferences: user home directory at file:///Users/russfellman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/LaunchImage-700-568h@2x.png/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Assets.car/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/russfellman/Development/iOS/Brodo/Brodo/Images.xcassets/0000000000000000^1204"CompileAssetCatalog DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app Brodo/Images.xcassets    cd /Users/russfellman/Development/iOS/Brodo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app /Users/russfellman/Development/iOS/Brodo/Brodo/Images.xcassets36"15A0196E-F9CF-4A49-85D9-F70988497419-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CCompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.o /Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402941448.465918
+e402941448.780333
+r1
+xCompileC
+xDerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.o
+x/Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m
+d/Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m214"CompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.o Brodo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc66a77086604b841^dcd5c7086604b841^---0#0#1#-19%DVTDocumentLocation2@76"file://localhost/Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m0000000000000000^3849"CompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.o Brodo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/russfellman/Development/iOS/Brodo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/russfellman/Development/iOS/Brodo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-generated-files.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-own-target-headers.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-all-target-headers.hmap -iquote /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-project-headers.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/DerivedSources/i386 -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/DerivedSources -F/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator -include /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch -MMD -MT dependencies -MF /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.dia -c /Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.m -o /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.o36"87C57CA1-D2C7-4C49-BFD7-F3A8BC0FA873-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CCompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.o /Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402941448.465919
+e402941448.781049
+r1
+xCompileC
+xDerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.o
+x/Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m
+d/Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m220"CompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.o Brodo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler986d77086604b841^28f3c7086604b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m0000000000000000^3867"CompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.o Brodo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/russfellman/Development/iOS/Brodo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/russfellman/Development/iOS/Brodo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-generated-files.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-own-target-headers.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-all-target-headers.hmap -iquote /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-project-headers.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/DerivedSources/i386 -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/DerivedSources -F/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator -include /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch -MMD -MT dependencies -MF /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.dia -c /Users/russfellman/Development/iOS/Brodo/Brodo/ViewController.m -o /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.o36"9DBBD912-1A49-4418-B075-72AC3FB50AEA-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CCompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.o /Users/russfellman/Development/iOS/Brodo/Brodo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402941448.465953
+e402941448.774372
+r1
+xCompileC
+xDerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.o
+x/Users/russfellman/Development/iOS/Brodo/Brodo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/russfellman/Development/iOS/Brodo/Brodo/main.m
+d/Users/russfellman/Development/iOS/Brodo/Brodo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/russfellman/Development/iOS/Brodo/Brodo/main.m200"CompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.o Brodo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler116d77086604b841^923dc6086604b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Users/russfellman/Development/iOS/Brodo/Brodo/main.m0000000000000000^3807"CompileC DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.o Brodo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/russfellman/Development/iOS/Brodo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/russfellman/Development/iOS/Brodo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-generated-files.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-own-target-headers.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-all-target-headers.hmap -iquote /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-project-headers.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/DerivedSources/i386 -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/DerivedSources -F/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator -include /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch -MMD -MT dependencies -MF /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.dia -c /Users/russfellman/Development/iOS/Brodo/Brodo/main.m -o /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.o36"A4A266F6-D5E8-499B-BA6F-C666EDED46A2-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CCompileStoryboard /Users/russfellman/Development/iOS/Brodo/Brodo/Base.lproj/Main.storyboard
+s402941449.794240
+e402941451.549756
+r1
+xCompileStoryboard
+x/Users/russfellman/Development/iOS/Brodo/Brodo/Base.lproj/Main.storyboard
+o2013-10-08 12:10:50.878 Interface Builder Cocoa Touch Tool[8171:303] CFPreferences: user home directory at file:///Users/russfellman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"CompileStoryboard Brodo/Base.lproj/Main.storyboard50"CompileStoryboard Brodo/Base.lproj/Main.storyboardc16fcb096604b841^0abf8c0b6604b841^-235"2013-10-08 12:10:50.878 Interface Builder Cocoa Touch Tool[8171:303] CFPreferences: user home directory at file:///Users/russfellman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/russfellman/Development/iOS/Brodo/Brodo/Base.lproj/Main.storyboard0000000000000000^857"CompileStoryboard Brodo/Base.lproj/Main.storyboard    cd /Users/russfellman/Development/iOS/Brodo    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Base.lproj/Main.storyboardc /Users/russfellman/Development/iOS/Brodo/Brodo/Base.lproj/Main.storyboard36"7A818BEB-A17E-4C8D-98B6-C30C7D00FEA2-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CCopyStringsFile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/en.lproj/InfoPlist.strings Brodo/en.lproj/InfoPlist.strings
+s402941449.794247
+e402941449.841677
+r1
+xCopyStringsFile
+x/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/en.lproj/InfoPlist.strings
+xBrodo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Brodo/en.lproj/InfoPlist.strings140"CopyStringsFile DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/en.lproj/InfoPlist.strings Brodo/en.lproj/InfoPlist.strings3f72cb096604b841^297bd7096604b841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/russfellman/Development/iOS/Brodo/Brodo/en.lproj/InfoPlist.strings0000000000000000^625"CopyStringsFile DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/en.lproj/InfoPlist.strings Brodo/en.lproj/InfoPlist.strings    cd /Users/russfellman/Development/iOS/Brodo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/en.lproj -- Brodo/en.lproj/InfoPlist.strings36"6C196690-7620-4ADA-A28B-195DC8610E9C-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CGenerateDSYMFile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo
+s402941449.734497
+e402941449.786188
+r1
+xGenerateDSYMFile
+x/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM
+x/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Generate /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM157"GenerateDSYMFile DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo691abc096604b841^9545c9096604b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM0038c0c2ddffdf42^727"GenerateDSYMFile DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo    cd /Users/russfellman/Development/iOS/Brodo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo -o /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app.dSYM36"518B6A0B-8FA9-4E0C-BA78-569EE1550C2C-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CLd /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo normal i386
+s402941448.790084
+e402941449.725570
+r1
+xLd
+x/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo
+xnormal
+xi386
+d/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/Brodo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/ViewController.o
+d/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/AppDelegate.o
+d/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Link /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo85"Ld DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo normal i3867557ca086604b841^dfbfb9096604b841^---0#0#1#--1489"Ld DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo normal i386    cd /Users/russfellman/Development/iOS/Brodo    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator -F/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator -filelist /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/Brodo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Objects-normal/i386/Brodo_dependency_info.dat -o /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Brodo36"11109773-5696-4EC4-A91A-E0C7D71F0017-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CProcessInfoPlistFile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Info.plist /Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Info.plist
+s402941451.714901
+e402941451.718793
+r1
+xProcessInfoPlistFile
+x/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Info.plist
+x/Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Process /Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Info.plist119"ProcessInfoPlistFile DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Info.plist Brodo/Brodo-Info.plist3c16b70b6604b841^4703b80b6604b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Info.plist0000000000000000^946"ProcessInfoPlistFile DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Info.plist Brodo/Brodo-Info.plist    cd /Users/russfellman/Development/iOS/Brodo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Info.plist -genpkginfo /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/assetcatalog_generated_info.plist -o /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app/Info.plist36"F98BC80C-C5C5-41C1-9B7A-E560CDF991BA-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CProcessPCH /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.pch Brodo/Brodo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402941446.629171
+e402941448.457253
+r1
+xProcessPCH
+x/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.pch
+xBrodo/Brodo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Brodo/Brodo-Prefix.pch221"ProcessPCH DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.pch Brodo/Brodo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5934a1066604b841^d00d75086604b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Prefix.pch0000000000000000^3702"ProcessPCH DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.pch Brodo/Brodo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/russfellman/Development/iOS/Brodo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/russfellman/Development/iOS/Brodo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-generated-files.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-own-target-headers.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-all-target-headers.hmap -iquote /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/Brodo-project-headers.hmap -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/DerivedSources/i386 -I/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/Brodo.build/Debug-iphonesimulator/Brodo.build/DerivedSources -F/Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.d -c /Users/russfellman/Development/iOS/Brodo/Brodo/Brodo-Prefix.pch -o /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Intermediates/PrecompiledHeaders/Brodo-Prefix-azmhwcltaxsluhfwecqdiemtcqsf/Brodo-Prefix.pch.pch36"0FA70F9F-7369-40B9-A342-1696F67FD994-
+b8FAC1B85-7002-4AB3-B0BA-5F9D76F1C2D3
+
+CProcessPCH /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Index/PrecompiledHeaders/Brodo-Prefix-apfpwvoljoinakgbfstzicfucvmw_ast/Brodo-Prefix.pch.pch Brodo/Brodo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/russfellman/Development/iOS/Brodo/DerivedData/Brodo/Build/Products/Debug-iphonesimulator/Brodo.app
+r0
+

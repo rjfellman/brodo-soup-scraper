@@ -21,6 +21,10 @@
 		2838FEC5180464020057B27D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2838FEA7180464020057B27D /* UIKit.framework */; };
 		2838FECD180464020057B27D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2838FECB180464020057B27D /* InfoPlist.strings */; };
 		2838FECF180464020057B27D /* BrodoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2838FECE180464020057B27D /* BrodoTests.m */; };
+		2838FEE118048A260057B27D /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 2838FEDC18048A260057B27D /* TFHpple.m */; };
+		2838FEE218048A260057B27D /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 2838FEDE18048A260057B27D /* TFHppleElement.m */; };
+		2838FEE318048A260057B27D /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 2838FEE018048A260057B27D /* XPathQuery.m */; };
+		2838FEE518048A670057B27D /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2838FEE418048A670057B27D /* libxml2.2.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +57,13 @@
 		2838FECA180464020057B27D /* BrodoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BrodoTests-Info.plist"; sourceTree = "<group>"; };
 		2838FECC180464020057B27D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2838FECE180464020057B27D /* BrodoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BrodoTests.m; sourceTree = "<group>"; };
+		2838FEDB18048A260057B27D /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TFHpple.h; path = Brodo/TFHpple.h; sourceTree = "<group>"; };
+		2838FEDC18048A260057B27D /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TFHpple.m; path = Brodo/TFHpple.m; sourceTree = "<group>"; };
+		2838FEDD18048A260057B27D /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TFHppleElement.h; path = Brodo/TFHppleElement.h; sourceTree = "<group>"; };
+		2838FEDE18048A260057B27D /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TFHppleElement.m; path = Brodo/TFHppleElement.m; sourceTree = "<group>"; };
+		2838FEDF18048A260057B27D /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XPathQuery.h; path = Brodo/XPathQuery.h; sourceTree = "<group>"; };
+		2838FEE018048A260057B27D /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XPathQuery.m; path = Brodo/XPathQuery.m; sourceTree = "<group>"; };
+		2838FEE418048A670057B27D /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = usr/lib/libxml2.2.dylib; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2838FEE518048A670057B27D /* libxml2.2.dylib in Frameworks */,
 				2838FEA6180464020057B27D /* CoreGraphics.framework in Frameworks */,
 				2838FEA8180464020057B27D /* UIKit.framework in Frameworks */,
 				2838FEA4180464020057B27D /* Foundation.framework in Frameworks */,
@@ -101,6 +113,8 @@
 		2838FEA2180464020057B27D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2838FEE6180495D40057B27D /* TFHpple */,
+				2838FEE418048A670057B27D /* libxml2.2.dylib */,
 				2838FEA3180464020057B27D /* Foundation.framework */,
 				2838FEA5180464020057B27D /* CoreGraphics.framework */,
 				2838FEA7180464020057B27D /* UIKit.framework */,
@@ -152,6 +166,19 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		2838FEE6180495D40057B27D /* TFHpple */ = {
+			isa = PBXGroup;
+			children = (
+				2838FEDB18048A260057B27D /* TFHpple.h */,
+				2838FEDC18048A260057B27D /* TFHpple.m */,
+				2838FEDD18048A260057B27D /* TFHppleElement.h */,
+				2838FEDE18048A260057B27D /* TFHppleElement.m */,
+				2838FEDF18048A260057B27D /* XPathQuery.h */,
+				2838FEE018048A260057B27D /* XPathQuery.m */,
+			);
+			name = TFHpple;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -199,6 +226,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = Rusty216;
 				TargetAttributes = {
+					2838FE9F180464020057B27D = {
+						DevelopmentTeam = 6DFK3J592V;
+					};
 					2838FEC0180464020057B27D = {
 						TestTargetID = 2838FE9F180464020057B27D;
 					};
@@ -249,6 +279,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2838FEE218048A260057B27D /* TFHppleElement.m in Sources */,
+				2838FEE318048A260057B27D /* XPathQuery.m in Sources */,
+				2838FEE118048A260057B27D /* TFHpple.m in Sources */,
 				2838FEBA180464020057B27D /* ViewController.m in Sources */,
 				2838FEB4180464020057B27D /* AppDelegate.m in Sources */,
 				2838FEB0180464020057B27D /* main.m in Sources */,
@@ -378,10 +411,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Russell Fellman (BD26A598LD)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Brodo/Brodo-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SDKROOT)/usr/include/libxml2",
+				);
 				INFOPLIST_FILE = "Brodo/Brodo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -391,10 +434,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Brodo/Brodo-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SDKROOT)/usr/include/libxml2",
+				);
 				INFOPLIST_FILE = "Brodo/Brodo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -460,6 +513,7 @@
 				2838FED4180464020057B27D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2838FED5180464020057B27D /* Build configuration list for PBXNativeTarget "BrodoTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +522,7 @@
 				2838FED7180464020057B27D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
